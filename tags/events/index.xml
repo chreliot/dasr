@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>events on Hofstra Data Analysis and Scientific Reasoning</title>
+    <link>http://chreliot.github.io/dasr/tags/events/</link>
+    <description>Recent content in events on Hofstra Data Analysis and Scientific Reasoning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Dec 2018 11:15:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://chreliot.github.io/dasr/tags/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Do You Know When You Can Trust Someone? Can Computer Modeling Help?</title>
+      <link>http://chreliot.github.io/dasr/posts/how-do-you-know-when-you-can-trust-someone-can-computer-modeling-help/</link>
+      <pubDate>Wed, 05 Dec 2018 11:15:00 -0500</pubDate>
+      
+      <guid>http://chreliot.github.io/dasr/posts/how-do-you-know-when-you-can-trust-someone-can-computer-modeling-help/</guid>
+      <description>Where: Heger Hall 101 (common hour)
+Students in the course “Coding Evolution of Cooperation” (Philosophy 51 C) have been developing a simulator for Iterated Prisoner&amp;rsquo;s Dilemma games.
+If the rewards for &amp;ldquo;cheating&amp;rdquo; or &amp;ldquo;cooperating&amp;rdquo; in a Prisoner&amp;rsquo;s Dilemma situation have a certain structure, then agents have an incentive to cooperate over the long term, even though it is always rational to cheat in a single interaction. This structure of rewards is extremely common in the natural world, from the interaction of groupers and wrasse fish to mutual cooperation in human societies.</description>
+    </item>
+    
+  </channel>
+</rss>

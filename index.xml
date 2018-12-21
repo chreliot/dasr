@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Hofstra Data Analysis and Scientific Reasoning</title>
+    <link>http://chreliot.github.io/dasr/</link>
+    <description>Recent content in Home on Hofstra Data Analysis and Scientific Reasoning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Oct 2018 17:18:56 -0500</lastBuildDate>
+    
+	<atom:link href="http://chreliot.github.io/dasr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Courses for Spring 2019</title>
+      <link>http://chreliot.github.io/dasr/posts/courses-for-spring-2019/</link>
+      <pubDate>Wed, 19 Dec 2018 10:51:13 -0500</pubDate>
+      
+      <guid>http://chreliot.github.io/dasr/posts/courses-for-spring-2019/</guid>
+      <description> PHI 152 Scientific Reasoning others? </description>
+    </item>
+    
+    <item>
+      <title>How Do You Know When You Can Trust Someone? Can Computer Modeling Help?</title>
+      <link>http://chreliot.github.io/dasr/posts/how-do-you-know-when-you-can-trust-someone-can-computer-modeling-help/</link>
+      <pubDate>Wed, 05 Dec 2018 11:15:00 -0500</pubDate>
+      
+      <guid>http://chreliot.github.io/dasr/posts/how-do-you-know-when-you-can-trust-someone-can-computer-modeling-help/</guid>
+      <description>Where: Heger Hall 101 (common hour)
+Students in the course “Coding Evolution of Cooperation” (Philosophy 51 C) have been developing a simulator for Iterated Prisoner&amp;rsquo;s Dilemma games.
+If the rewards for &amp;ldquo;cheating&amp;rdquo; or &amp;ldquo;cooperating&amp;rdquo; in a Prisoner&amp;rsquo;s Dilemma situation have a certain structure, then agents have an incentive to cooperate over the long term, even though it is always rational to cheat in a single interaction. This structure of rewards is extremely common in the natural world, from the interaction of groupers and wrasse fish to mutual cooperation in human societies.</description>
+    </item>
+    
+    <item>
+      <title>Faculty for the MDASR</title>
+      <link>http://chreliot.github.io/dasr/faculty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://chreliot.github.io/dasr/faculty/</guid>
+      <description>These Hofstra professors have research interests and offer courses related to scientific reasoning and/or data analysis.
+ Christopher Eliot, adviser, Philosophy (faculty profile, personal site) research: philosophy of science, especially biology and ecology teaches: Scientific Reasoning (PHI 152), Symbolic Logic (PHI 154), Philosophy of Science (PHI 161)  Emily E. Barkley-Levenson, Psychology (faculty profile) Anthony Dardis, Philosophy (faculty profile, personal site)  Johanna Franklin, Mathematics (faculty profile, personal site) research: mathematical logic, especially algorithmic randomness teaches: Logic, Sets, and Probability (MATH 045), Mathematical Probability and Statistics 1 and 2 (MATH 137 and MATH 138)  Amy Masnick, Psychology (faculty profile) Roberto Mazzoleni, Economics (faculty profile) Elisabeth Ploran, Psychology (faculty profile) </description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://chreliot.github.io/dasr/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://chreliot.github.io/dasr/resources/</guid>
+      <description> Minoring students might find these resources useful:  The free, online version of R for Data Science by Hadley Wickham and Garrett Grolemund RStudio, a free, open source, integrated development environment (IDE) for R Entries in the Stanford Encyclopedia of Philosophy:  Scientific Discovery Scientific Method Reproducibility of Scientific Results Experiment in Biology Experiment in Physics Theory and Observation in Science Computer Simulations in Science Prediction versus Accommodation The Problem of Induction Inductive Logic Bayes&amp;rsquo; Theorem Bayesian Epistemology Abduction Confirmation Philosophy of Statistics Interpretations of Probability   </description>
+    </item>
+    
+  </channel>
+</rss>

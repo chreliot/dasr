@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>http://chreliot.github.io/dasr/posts/title-change/</loc>
+    <lastmod>2018-12-08T12:51:45-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://chreliot.github.io/dasr/posts/how-do-you-know-when-you-can-trust-someone-can-computer-modeling-help/</loc>
     <lastmod>2018-12-05T11:15:00-05:00</lastmod>
   </url>
@@ -25,6 +30,12 @@
   <url>
     <loc>http://chreliot.github.io/dasr/</loc>
     <lastmod>2018-10-02T17:18:56-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/dasr/tags/</loc>
+    <lastmod>2018-12-08T12:51:45-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -43,6 +54,7 @@
   
   <url>
     <loc>http://chreliot.github.io/dasr/tags/</loc>
+    <lastmod>2018-12-08T12:51:45-05:00</lastmod>
     <priority>0</priority>
   </url>
   

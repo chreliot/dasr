@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hofstra Data Analysis and Scientific Reasoning</title>
+    <title>Tags on Hofstra Data Analysis and Scientific Reasoning</title>
     <link>http://chreliot.github.io/dasr/tags/</link>
-    <description>Recent content on Hofstra Data Analysis and Scientific Reasoning</description>
+    <description>Recent content in Tags on Hofstra Data Analysis and Scientific Reasoning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Dec 2018 12:51:45 -0500</lastBuildDate>
@@ -12,14 +12,30 @@
     
     
     <item>
-      <title>Title Change</title>
-      <link>http://chreliot.github.io/dasr/posts/title-change/</link>
+      <title></title>
+      <link>http://chreliot.github.io/dasr/tags/</link>
       <pubDate>Sat, 08 Dec 2018 12:51:45 -0500</pubDate>
       
-      <guid>http://chreliot.github.io/dasr/posts/title-change/</guid>
-      <description>MSRDA? MDASR? (Anything but MRSA!)
-If you see a couple different versions of our program&amp;rsquo;s name, it&amp;rsquo;s because during 2018–2019 we are reshuffling the program&amp;rsquo;s title.
-With the reversal, we&amp;rsquo;re also working on enhancing the data analysis portion of the program. More developments to come.</description>
+      <guid>http://chreliot.github.io/dasr/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>courses</title>
+      <link>http://chreliot.github.io/dasr/tags/courses/</link>
+      <pubDate>Wed, 19 Dec 2018 10:51:13 -0500</pubDate>
+      
+      <guid>http://chreliot.github.io/dasr/tags/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>events</title>
+      <link>http://chreliot.github.io/dasr/tags/events/</link>
+      <pubDate>Fri, 08 Feb 2019 15:30:00 -0500</pubDate>
+      
+      <guid>http://chreliot.github.io/dasr/tags/events/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -6,10 +6,20 @@
     <description>Recent content in events on Hofstra Data Analysis and Scientific Reasoning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Feb 2019 15:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 13 Feb 2019 18:30:00 -0500</lastBuildDate>
     
 	<atom:link href="http://chreliot.github.io/dasr/tags/events/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Coulda, Woulda, Shoulda: Making Sense of Modal Logic</title>
+      <link>http://chreliot.github.io/dasr/posts/coulda-woulda-shoulda-making-sense-of-modal-logic/</link>
+      <pubDate>Wed, 13 Feb 2019 18:30:00 -0500</pubDate>
+      
+      <guid>http://chreliot.github.io/dasr/posts/coulda-woulda-shoulda-making-sense-of-modal-logic/</guid>
+      <description>This discussion is a Reasoning Evening hosted by Hofstra&amp;rsquo;s Minor in Data Analysis and Scientific Reasoning.
+Abstract: How can we reason about statements like &amp;ldquo;It is possible that Axinn Library has 11 stories&amp;rdquo; and &amp;ldquo;It is necessary that Axinn Library has 11 stories&amp;rdquo;? Are these sentences related? If so, how? We&amp;rsquo;ll talk about different rules people are willing to take for granted about statements like these and whether we think these rules make sense.</description>
+    </item>
     
     <item>
       <title>How Do Mathematicians Believe?</title>

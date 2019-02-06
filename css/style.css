@@ -11,6 +11,7 @@ body {
 .article-meta, .menu a {
   text-decoration: none;
   background: #eee;
+  line-height: 1.1em;
   padding: 5px;
   border-radius: 5px;
 }
